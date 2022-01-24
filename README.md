@@ -9,3 +9,5 @@ Work completed through the DataTalksClub Data Engineering ZoomCamp provided by A
 - Docker containers
 - Docker Deployment
 - Kubernetes
+
+[Week 1 Linked-In Learning Annoucement](https://www.linkedin.com/posts/activity-6891409974711480321-hXDh)

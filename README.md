@@ -1,6 +1,4 @@
-# To view as Web - Page: 
-
-https://elenae873.github.io/Data-Engineering-ZoomCamp-2022/
+# To view as [Web - Page](https://elenae873.github.io/Data-Engineering-ZoomCamp-2022/)
 
 # Data-Engineering-ZoomCamp-2022
 Work completed through the DataTalksClub Data Engineering ZoomCamp provided by Alexey Grigorev: https://github.com/DataTalksClub/data-engineering-zoomcamp

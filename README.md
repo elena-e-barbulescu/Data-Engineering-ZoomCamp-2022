@@ -1,4 +1,4 @@
-# To view as Pages: 
+# To view as Web - Page: 
 
 https://elenae873.github.io/Data-Engineering-ZoomCamp-2022/
 

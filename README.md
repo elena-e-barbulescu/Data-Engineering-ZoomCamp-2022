@@ -1,2 +1,4 @@
 # Data-Engineering-ZoomCamp-2022
-Work completed through the DataTalksClub Data Engineering ZoomCamp provided by Alexey Grigorev: https://github.com/DataTalksClub/data-engineering-zoomcamp
+
+
+DataTalksClub Data Engineering ZoomCamp is being provided by Alexey Grigorev: https://github.com/DataTalksClub/data-engineering-zoomcamp

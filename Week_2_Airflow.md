@@ -1,5 +1,9 @@
 # Week - 2 - Learning || Airflow
 
+This information is provided by way of the Data Camp course on the Introduction to Airflow in Python which is part of my [DataCamp 1Q2022 Foundations Challenge](https://github.com/ElenaE873/1Q2022-DataCamp-1CourseperDay-Challenge/blob/main/27_Introduction-to-Airflow-in-Python.png).
+
+You can check out the course on [Data Camp](https://app.datacamp.com/learn/courses/introduction-to-airflow-in-python).
+
 ## Data Engineering
 
 At a high-level, taking action to turn data into **reliable**, **repeatable**, **maintainable** process.

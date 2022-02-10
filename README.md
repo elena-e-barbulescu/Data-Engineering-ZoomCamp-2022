@@ -2,6 +2,9 @@
 Work completed through the DataTalksClub Data Engineering ZoomCamp provided by Alexey Grigorev: https://github.com/DataTalksClub/data-engineering-zoomcamp
 
 # Week - 3 - Big Query
+- What is Big Query
+
+[Week 3 - Linked-In Learning Annoucement](https://www.linkedin.com/posts/barbulescuelena_github-elenae873data-engineering-zoomcamp-activity-6897568472981995521-2A_C)
 
 # Week - 2 - Learning || Airflow
 - Data Engineering

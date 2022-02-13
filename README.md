@@ -3,7 +3,7 @@ Work completed through the DataTalksClub Data Engineering ZoomCamp provided by A
 
 # Week - 4 - [part1]AnalyticsEngineering
 
-[Week 4 - part 1- Linked-In Learning Annoucment]()
+[Week 4 - part 1- Linked-In Learning Annoucment](https://www.linkedin.com/posts/barbulescuelena_github-elenae873data-engineering-zoomcamp-activity-6898717367061291008--qCI)
 
 # Week - 3 - Big Query
 - What is Big Query
